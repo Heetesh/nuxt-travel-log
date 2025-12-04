@@ -1,4 +1,4 @@
-# Nuxt Traval Log
+# Nuxt Travel Log
 
 A full-stack application built with Nuxt that allows users to keep track of all the places they've been.
 
@@ -23,13 +23,11 @@ pnpm dev
 Build the application for production:
 
 ```bash
-# npm
 pnpm build
 ```
 
 Locally preview production build:
 
 ```bash
-# npm
 pnpm preview
 ```
